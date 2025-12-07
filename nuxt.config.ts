@@ -1,9 +1,10 @@
 export default defineNuxtConfig({
   runtimeConfig: {
-    ssr: true,
     web3formsKey: process.env.WEB3FORMS_KEY,
-  
   },
+  
+  ssr: true,  // Keep this - you want client-side only
+  
   css: ["~/assets/css/main.css"],
   postcss: {
     plugins: {
@@ -20,8 +21,8 @@ export default defineNuxtConfig({
   nitro: {
     preset: "cloudflare-pages",
     output: {
-    publicDir: ".output/public",
-    serverDir: '.output/server'
+      publicDir: ".output/public",
+      serverDir: '.output/server'
     },
     prerender: {
       failOnError: false,
@@ -31,7 +32,6 @@ export default defineNuxtConfig({
   experimental: {
     payloadExtraction: false,
   },
-  ssr: false,
   app: {
     baseURL: "/",
   },
