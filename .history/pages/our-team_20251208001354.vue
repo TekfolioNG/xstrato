@@ -206,7 +206,7 @@
 
                     <!-- Image on the right -->
                     <div class="lg:flex justify-end hidden">
-                        <img src="/assets/img/about-xstrato4.png" alt="Xstrato Prime Team"
+                        <img src="~/assets/img/about-xstrato4.png" alt="Xstrato Prime Team"
                             class="max-w-md w-full h-auto rounded-lg shadow-lg" />
                     </div>
                 </div>

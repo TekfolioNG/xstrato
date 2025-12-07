@@ -166,7 +166,7 @@
                 </div>
               </div>
               <div class="lg:col-span-1">
-                <img src="/assets/img/xsatro-supply.jpg" alt="Procurement and Supply Chain"
+                <img src="~/assets/img/xsatro-supply.jpg" alt="Procurement and Supply Chain"
                   class="w-full h-64 lg:h-full object-cover" loading="lazy" />
               </div>
             </div>
@@ -176,7 +176,7 @@
           <div class="bg-white rounded-2xl shadow-lg overflow-hidden hover:shadow-xl transition-shadow duration-300">
             <div class="grid lg:grid-cols-3 gap-0">
               <div class="lg:col-span-1 order-2 lg:order-1">
-                <img src="/assets/img/services-xsatro4.jpg" alt="Construction & General Contracting"
+                <img src="~/assets/img/services-xsatro4.jpg" alt="Construction & General Contracting"
                   class="w-full h-64 lg:h-full object-cover" loading="lazy" />
               </div>
               <div class="lg:col-span-2 p-8 md:p-12 order-1 lg:order-2">
@@ -268,7 +268,7 @@
                 </div>
               </div>
               <div class="lg:col-span-1">
-                <img src="/assets/img/xstrato-valuation3.jpg" alt="Real Estate & Valuation"
+                <img src="~/assets/img/xstrato-valuation3.jpg" alt="Real Estate & Valuation"
                   class="w-full h-64 lg:h-full object-cover" loading="lazy" />
               </div>
             </div>
@@ -278,7 +278,7 @@
           <div class="bg-white rounded-2xl shadow-lg overflow-hidden hover:shadow-xl transition-shadow duration-300">
             <div class="grid lg:grid-cols-3 gap-0">
               <div class="lg:col-span-1 order-2 lg:order-1">
-                <img src="/assets/img/xstrato-valuation4.jpg" alt="Project Management and Engineering Services"
+                <img src="~/assets/img/xstrato-valuation4.jpg" alt="Project Management and Engineering Services"
                   class="w-full h-64 lg:h-full object-cover" loading="lazy" />
               </div>
               <div class="lg:col-span-2 p-8 md:p-12 order-1 lg:order-2">
@@ -370,7 +370,7 @@
                 </div>
               </div>
               <div class="lg:col-span-1">
-                <img src="/assets/img/services-xsatro6.jpg" alt="Solar Energy Solutions"
+                <img src="~/assets/img/services-xsatro6.jpg" alt="Solar Energy Solutions"
                   class="w-full h-64 lg:h-full object-cover" loading="lazy" />
               </div>
             </div>
@@ -380,7 +380,7 @@
           <div class="bg-white rounded-2xl shadow-lg overflow-hidden hover:shadow-xl transition-shadow duration-300">
             <div class="grid lg:grid-cols-3 gap-0">
               <div class="lg:col-span-1 order-2 lg:order-1">
-                <img src="/assets/img/services-xsatro10.jpg" alt="Training and Development"
+                <img src="~/assets/img/services-xsatro10.jpg" alt="Training and Development"
                   class="w-full h-64 lg:h-full object-cover" loading="lazy" />
               </div>
               <div class="lg:col-span-2 p-8 md:p-12 order-1 lg:order-2">
@@ -459,7 +459,7 @@
 
           <!-- Image on the right -->
           <div class="lg:flex justify-end hidden">
-            <img src="/assets/img/about-xstrato4.png" alt="Xstrato Prime Team"
+            <img src="~/assets/img/about-xstrato4.png" alt="Xstrato Prime Team"
               class="max-w-md w-full h-auto rounded-lg shadow-lg" />
           </div>
         </div>

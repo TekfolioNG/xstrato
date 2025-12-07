@@ -89,7 +89,7 @@
 
           <!-- Project 2 -->
           <div class="bg-gray-50 rounded-lg overflow-hidden shadow-md hover:shadow-lg transition-shadow">
-            <img src="/assets/img/Xstrato-solar.webp" alt="Solar Powered Water Infrastructure"
+            <img src="~/assets/img/Xstrato-solar.webp" alt="Solar Powered Water Infrastructure"
               class="w-full h-48 object-cover">
             <div class="p-6">
               <h3 class="text-xl font-bold text-gray-900 mb-2">Solar Powered Borehole & Water Treatment Plant</h3>
@@ -105,7 +105,7 @@
 
           <!-- Project 3 -->
           <div class="bg-gray-50 rounded-lg overflow-hidden shadow-md hover:shadow-lg transition-shadow">
-            <img src="/assets/img/xsatro-equipment.jpg" alt="University Equipment Procurement"
+            <img src="~/assets/img/xsatro-equipment.jpg" alt="University Equipment Procurement"
               class="w-full h-48 object-cover">
             <div class="p-6">
               <h3 class="text-xl font-bold text-gray-900 mb-2">Critical Equipment Procurement for University
@@ -121,7 +121,7 @@
 
           <!-- Project 4 -->
           <div class="bg-gray-50 rounded-lg overflow-hidden shadow-md hover:shadow-lg transition-shadow">
-            <img src="/assets/img/xsatro-mtn.jpg" alt="Telecommunications Infrastructure"
+            <img src="~/assets/img/xsatro-mtn.jpg" alt="Telecommunications Infrastructure"
               class="w-full h-48 object-cover">
             <div class="p-6">
               <h3 class="text-xl font-bold text-gray-900 mb-2">Fibre Network Ducting Infrastructure Development</h3>
@@ -137,7 +137,7 @@
 
           <!-- Project 5 -->
           <div class="bg-gray-50 rounded-lg overflow-hidden shadow-md hover:shadow-lg transition-shadow">
-            <img src="/assets/img/xsatro-niit.jpg" alt="Educational Infrastructure Rehabilitation"
+            <img src="~/assets/img/xsatro-niit.jpg" alt="Educational Infrastructure Rehabilitation"
               class="w-full h-48 object-cover">
             <div class="p-6">
               <h3 class="text-xl font-bold text-gray-900 mb-2">Hostel Rehabilitation Project - NITT</h3>
@@ -153,7 +153,7 @@
 
           <!-- Project 6 -->
           <div class="bg-gray-50 rounded-lg overflow-hidden shadow-md hover:shadow-lg transition-shadow">
-            <img src="/assets/img/xsatro-project-management.jpg" alt="Digital Marketing Strategy"
+            <img src="~/assets/img/xsatro-project-management.jpg" alt="Digital Marketing Strategy"
               class="w-full h-48 object-cover">
             <div class="p-6">
               <h3 class="text-xl font-bold text-gray-900 mb-2">Construction Project Management & Engineering Consultancy
