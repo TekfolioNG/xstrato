@@ -1,6 +1,11 @@
 export default defineNuxtConfig({
   ssr: true,
 
+  runtimeConfig: {
+    // Private keys (only available on server-side)
+    web3formsKey: process.env.WEB3FORMS_KEY,
+  },
+
   css: ["~/assets/css/main.css"],
 
   postcss: {
@@ -15,6 +20,12 @@ export default defineNuxtConfig({
     "@nuxt/image",
   ],
 
+  image: {
+    format: ['webp', 'avif', 'jpg', 'png', 'svg'],
+    quality: 85,
+    densities: [1, 2],
+    domains: [],
+  },
 
   app: {
     baseURL: "/",

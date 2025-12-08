@@ -1,6 +1,11 @@
 export default defineNuxtConfig({
   ssr: true,
 
+  runtimeConfig: {
+    // Private keys (only available on server-side)
+    web3formsKey: process.env.WEB3FORMS_KEY,
+  },
+
   css: ["~/assets/css/main.css"],
 
   postcss: {
