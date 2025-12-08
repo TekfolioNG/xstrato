@@ -207,7 +207,7 @@
 
           <div class="order-3 text-gray-400 text-sm text-center md:text-right">
             Website Development by <a href="https://tekfolio.ng" target="_blank" rel="noopener noreferrer"
-              class="text-gray-300 hover:text-blue-400 transition-colors">Tekfolio Ltd</a>
+              class="text-gray-300 hover:text-blue-400 transition-colors">Tekfolio</a>
           </div>
         </div>
       </div>
