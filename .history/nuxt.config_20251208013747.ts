@@ -1,5 +1,8 @@
 export default defineNuxtConfig({
-
+  runtimeConfig: {
+    web3formsKey: process.env.WEB3FORMS_KEY,
+  },
+  
   ssr: true,
   
   css: ["~/assets/css/main.css"],
